@@ -92,7 +92,7 @@ This dashboard shows:
 
 ## 🙌 Credits
 
-Built and tested by **[Your Name]**, as part of a hands-on DevOps portfolio project.
+Built and tested by **Azin**, as part of a hands-on DevOps portfolio project.
 
 ---
 
